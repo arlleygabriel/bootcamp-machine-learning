@@ -1,6 +1,6 @@
 [![](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/blob/main/logo.png)](https://www.linkedin.com/in/arlley-gabriel-dias-e-dias-904748123/)
 
-[![](https://img.shields.io/badge/made%20by-arlleygabriel-yellow)](https://www.linkedin.com/in/masedos/)
+[![](https://img.shields.io/badge/made%20by-arlleygabriel-yellow)](https://www.linkedin.com/in/arlley-gabriel-dias-e-dias-904748123/)
 ![GitHub repo size](https://img.shields.io/badge/-machine%20learning-blue)
 
 `Certificado:` [WIP]()
@@ -19,3 +19,5 @@ Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos 
 WIP
 
 ## Trilha do bootcamp
+
+[![](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/blob/main/Modelo%20Trilhas%202.jpg)](https://www.linkedin.com/in/arlley-gabriel-dias-e-dias-904748123/)
