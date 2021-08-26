@@ -14,7 +14,7 @@ Este bootcamp do [IGTI](https://www.igti.com.br/), tem como objetivo estudar a t
 
 ## Conteúdo do bootcamp
 
-Nos links abaixo de cada módulo disponibilizo materiais de trabalhos práticos e desafios estudados no bootcamp:
+Seguem os links de cada módulo, onde é disponibilizado os materiais de trabalhos práticos e desafios estudados no bootcamp:
 
 WIP
 
