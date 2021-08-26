@@ -22,7 +22,7 @@ Este bootcamp do [IGTI](https://www.igti.com.br/), tem como objetivo estudar a t
 
 Seguem os links de cada módulo, onde é disponibilizado os materiais de trabalhos práticos e desafios estudados no bootcamp:
 
-[Abertura](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/tree/main/0.abertura) | [Módulo 1](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/tree/main/1.m%C3%B3dulo_1) | [Módulo 2](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/tree/main/2.m%C3%B3dulo_2) | [Módulo 3](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/tree/main/3.m%C3%B3dulo_3) |[Módulo 4](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/tree/main/4.m%C3%B3dulo_4) | [Desafio final]()
+[Abertura](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/tree/main/0.abertura) | [Módulo 1](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/tree/main/1.m%C3%B3dulo_1) | [Módulo 2](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/tree/main/2.m%C3%B3dulo_2) | [Módulo 3](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/tree/main/3.m%C3%B3dulo_3) |[Módulo 4](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/tree/main/4.m%C3%B3dulo_4) | [Desafio final](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/tree/main/5.desafio_final)
 
 ## Trilha do bootcamp
 
