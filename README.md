@@ -14,6 +14,8 @@ Este bootcamp do [IGTI](https://www.igti.com.br/), tem como objetivo estudar a t
 
 ## Conteúdo do bootcamp
 
+[![](https://github.com/arlleygabriel/Bootcamp-Engenheiro-de-Machine-Learning/blob/main/conteudo_1.png)]
+
 Seguem os links de cada módulo, onde é disponibilizado os materiais de trabalhos práticos e desafios estudados no bootcamp:
 
 WIP
