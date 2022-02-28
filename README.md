@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/made%20by-arlleygabriel-yellow)](https://www.linkedin.com/in/arlley-gabriel-dias-e-dias-904748123/)
 ![GitHub repo size](https://img.shields.io/badge/-machine%20learning-blue)
 
-`Certificado:` [WIP]()
+`Certificado:` [Clique Aqui](https://github.com/arlleygabriel/bootcamp-machine-learning/blob/main/certificado_arlleygabriel_btc_ml.png)
 </br></br>
 `Duração:` 2 meses, 148 horas
 </br></br>
